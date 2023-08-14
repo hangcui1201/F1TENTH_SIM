@@ -4,7 +4,7 @@
 
 #### System: Ubuntu 20.04 + ROS Noetic (Gazebo 11)
 
-#### F1TENTH Car
+#### F1TENTH Racecar
 
 <a href="url"><img src="./images/racecar.jpg" width="500"></a>  
 
