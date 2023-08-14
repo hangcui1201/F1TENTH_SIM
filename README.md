@@ -48,7 +48,9 @@ $ roslaunch f1tenth-sim racecar.launch world_name:=track_barca x:=-0.2 y:=-0.2 y
 
 <a href="url"><img src="./images/track_barca.png" width="600"></a>
 
+#### Keyboard Teleop
 
-
+$ source devel/setup.bash  
+$ rosrun f1tenth-sim keyboard_teleop.py  
 
 
