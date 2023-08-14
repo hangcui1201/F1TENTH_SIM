@@ -6,7 +6,7 @@
 
 #### F1TENTH Car
 
-<a href="url"><img src="./images/track_porto.png" width="500"></a>  
+<a href="url"><img src="./images/racecar.jpg" width="500"></a>  
 
 #### Setup
 
@@ -46,7 +46,7 @@ $ roslaunch f1tenth-sim racecar.launch world_name:=track_porto yaw:=0.75
 $ source devel/setup.bash  
 $ roslaunch f1tenth-sim racecar.launch world_name:=track_barca x:=-0.2 y:=-0.2 yaw:=-0.5  
 
-<a href="url"><img src="./images/track_barca.png" width="500"></a>
+<a href="url"><img src="./images/track_barca.png" width="600"></a>
 
 #### Keyboard Teleop
 
