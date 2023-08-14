@@ -8,6 +8,10 @@
 
 <a href="url"><img src="./images/track_porto.png" width="600"></a>  
 
+#### Setup
+
+$ sudo apt-get install -y ros-noetic-navigation ros-noetic-teb-local-planner* ros-noetic-ros-control ros-noetic-ros-controllers ros-noetic-gazebo-ros-control ros-noetic-ackermann-msgs ros-noetic-serial  
+
 #### Tunnel Environment
 
 $ source devel/setup.bash  
