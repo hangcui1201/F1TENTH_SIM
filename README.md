@@ -53,4 +53,14 @@ $ roslaunch f1tenth-sim racecar.launch world_name:=track_barca x:=-0.2 y:=-0.2 y
 $ source devel/setup.bash  
 $ rosrun f1tenth-sim keyboard_teleop.py  
 
+#### Reference
+
+[f1tenth-dev/simulator](https://github.com/f1tenth-dev/simulator/tree/development)  
+
+
+
+
+
+
+
 
